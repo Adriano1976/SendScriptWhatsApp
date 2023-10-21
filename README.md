@@ -15,9 +15,9 @@ Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/b
 
 - Se quiser usar os roteiros completo em português
 
-Abra [shrekSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+Abra [shrekSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/blob/main/shrekSendScriptPT.js)
 Ou
-Abra [beeMovieSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Abra [beeMovieSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/blob/main/beeMovieSendScriptPT.js)
 
 - Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 

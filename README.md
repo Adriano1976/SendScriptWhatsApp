@@ -19,10 +19,10 @@ Abra [shrekSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/bl
 Ou
 Abra [beeMovieSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
 
-Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
+- Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
-No WhatsApp Web abra o console do Browser
+- No WhatsApp Web abra o console do Browser
 
-Cole o código no console e aperte Enter
+- Cole o código no console e aperte Enter
 
 Pronto

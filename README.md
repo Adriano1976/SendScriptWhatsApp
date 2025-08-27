@@ -19,7 +19,7 @@ Abra [shrekSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/bl
 
 Pronto
 
-<br><br><br><br><br>  
+<br><br><hr><br><br>
 
 <div align="center">
   <p><b><h3> Contagem de visitantes </h3></b></p>  

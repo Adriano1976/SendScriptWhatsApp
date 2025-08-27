@@ -18,3 +18,12 @@ Abra [shrekSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/bl
 - Cole o código no console e aperte Enter
 
 Pronto
+
+<br><br><br><br><br>  
+
+<div align="center">
+  <p><b><h3> Contagem de visitantes </h3></b></p>  
+  <img src="https://vbr.nathanchung.dev/badge?page_id=Adriano1976/SendScriptWhatsApp" style="height: 30px;" />
+   <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>
+</div>

@@ -9,15 +9,7 @@ Os scripts podem ser usados para enviar todo o script do Shrek ou Bee para amigo
 
 ## Utilização
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
-
-- Se quiser usar os roteiros completo em português
-
-Abra [shrekSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/blob/main/shrekSendScriptPT.js)
-Ou
-Abra [beeMovieSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/blob/main/beeMovieSendScriptPT.js)
+Abra [shrekSendScriptPT.js](https://github.com/Adriano1976/SendScriptWhatsApp/blob/main/SendScriptWhatsAppV2-Shrek-PT-BR.js))
 
 - Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
